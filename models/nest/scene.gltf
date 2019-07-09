@@ -1,0 +1,673 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 29402,
+      "max": [
+        8.6135597229003906,
+        7.122678279876709,
+        -3.8217363357543945
+      ],
+      "min": [
+        -10.05083179473877,
+        -1.4375787973403931,
+        -24.260383605957031
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 352824,
+      "componentType": 5126,
+      "count": 29402,
+      "max": [
+        0.99980670213699341,
+        0.99959099292755127,
+        0.99995392560958862
+      ],
+      "min": [
+        -0.99985593557357788,
+        -0.99997955560684204,
+        -0.99969291687011719
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 29402,
+      "max": [
+        0.99985390901565552,
+        0.99997812509536743,
+        0.99999898672103882,
+        1
+      ],
+      "min": [
+        -0.99996954202651978,
+        -0.99992585182189941,
+        -0.99993383884429932,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 29402,
+      "max": [
+        0.99765932559967041,
+        0.99952960014343262
+      ],
+      "min": [
+        0.0019741654396057129,
+        0.0019920319318771362
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 62124,
+      "max": [
+        29401
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 705648,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        -6.5104608535766602,
+        382.39144897460938,
+        -455.57855224609375
+      ],
+      "min": [
+        -12.75670337677002,
+        375.0865478515625,
+        -463.15988159179688
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 715248,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.99886393547058105,
+        0.99957966804504395,
+        0.99918603897094727
+      ],
+      "min": [
+        -0.99838101863861084,
+        -0.99882215261459351,
+        -0.99876111745834351
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 470432,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.98192453384399414,
+        0.99995887279510498,
+        0.66975337266921997,
+        1
+      ],
+      "min": [
+        -0.99899214506149292,
+        -0.75789946317672729,
+        -0.99944537878036499,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 235216,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        4,
+        6
+      ],
+      "min": [
+        0,
+        -1
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 248496,
+      "componentType": 5125,
+      "count": 4608,
+      "max": [
+        799
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 724848,
+      "componentType": 5126,
+      "count": 891,
+      "max": [
+        -12.516884803771973,
+        381.90756225585938,
+        -456.1337890625
+      ],
+      "min": [
+        -19.573843002319336,
+        375.519287109375,
+        -463.8035888671875
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 735540,
+      "componentType": 5126,
+      "count": 891,
+      "max": [
+        0.99796593189239502,
+        0.99643367528915405,
+        0.99923199415206909
+      ],
+      "min": [
+        -0.99909192323684692,
+        -0.99798798561096191,
+        -0.99967563152313232
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 483232,
+      "componentType": 5126,
+      "count": 891,
+      "max": [
+        0.81990319490432739,
+        0.99746382236480713,
+        0.99861747026443481,
+        1
+      ],
+      "min": [
+        -0.99835813045501709,
+        -0.98033130168914795,
+        -0.98789560794830322,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 241616,
+      "componentType": 5126,
+      "count": 891,
+      "max": [
+        4,
+        6
+      ],
+      "min": [
+        0,
+        -1
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 266928,
+      "componentType": 5125,
+      "count": 4560,
+      "max": [
+        890
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 746232,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        -8.741429328918457,
+        381.74331665039062,
+        -462.2659912109375
+      ],
+      "min": [
+        -15.07749080657959,
+        374.974853515625,
+        -470.20138549804688
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 755832,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.99556648731231689,
+        0.9985470175743103,
+        0.99898111820220947
+      ],
+      "min": [
+        -0.9961402416229248,
+        -0.99864500761032104,
+        -0.99930781126022339
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 497488,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        0.96381270885467529,
+        0.99757057428359985,
+        0.53495925664901733,
+        1
+      ],
+      "min": [
+        -0.99678272008895874,
+        -0.88497006893157959,
+        -0.99870878458023071,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 248744,
+      "componentType": 5126,
+      "count": 800,
+      "max": [
+        4,
+        6
+      ],
+      "min": [
+        0,
+        -1
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 285168,
+      "componentType": 5125,
+      "count": 4608,
+      "max": [
+        799
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Salman_3d_artist (https://sketchfab.com/Salman_3d_artist)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/models/beeaca6d418b4745844db490fcf7da7e",
+      "title": "Nest"
+    },
+    "generator": "Sketchfab-3.43.5",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 303600,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 255144,
+      "byteOffset": 303600,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 765432,
+      "byteOffset": 558744,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 510288,
+      "byteOffset": 1324176,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1834464,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/All_GP_ObjectsBird_Nest_Woods_baseColor.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "All_GP_ObjectsBird_Nest_Woods",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0.83098323169999999,
+        "roughnessFactor": 0.90415396339999998
+      }
+    },
+    {
+      "doubleSided": true,
+      "name": "All_GP_ObjectsBird_Nest_Eggs",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.063159648099999993,
+          0.0154129673,
+          0.0077000215999999998,
+          1
+        ],
+        "metallicFactor": 0.013910061,
+        "roughnessFactor": 0.52000762199999995
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "All_GP_Objects:Bird_Nest_All_GP_Objects:Bird_Nest_Woods_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "All_GP_Objects:nurbsToPoly1_All_GP_Objects:Bird_Nest_Eggs_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "All_GP_Objects:nurbsToPoly2_All_GP_Objects:Bird_Nest_Eggs_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "All_GP_Objects:nurbsToPoly3_All_GP_Objects:Bird_Nest_Eggs_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 16,
+            "POSITION": 15,
+            "TANGENT": 17,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        -1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "752eee934f34421799aee7fc3cabd39f.fbx"
+    },
+    {
+      "children": [
+        4,
+        7,
+        9,
+        11
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        5
+      ],
+      "matrix": [
+        2.7975075244903564,
+        0,
+        0,
+        0,
+        0,
+        2.7975075244903564,
+        0,
+        0,
+        0,
+        0,
+        2.7975075244903564,
+        0,
+        -10.50702953338623,
+        370.08270263671875,
+        -422.08749389648438,
+        1
+      ],
+      "name": "All_GP_Objects:Bird_Nest_GP"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "All_GP_Objects:Bird_Nest"
+    },
+    {
+      "mesh": 0,
+      "name": "All_GP_Objects:Bird_Nest_All_GP_Objects:Bird_Nest_Woods_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "matrix": [
+        -0.72575804068641392,
+        0.10658471950226447,
+        -0.67964326226899452,
+        0,
+        0.25991382531592522,
+        -0.87222198846271093,
+        -0.41433513760215607,
+        0,
+        -0.63696159208280401,
+        -0.4773557378002054,
+        0.60531927922424633,
+        0,
+        -407.52545166015625,
+        490.96600341796875,
+        -30.659914016723633,
+        1
+      ],
+      "name": "All_GP_Objects:nurbsToPoly1"
+    },
+    {
+      "mesh": 1,
+      "name": "All_GP_Objects:nurbsToPoly1_All_GP_Objects:Bird_Nest_Eggs_0"
+    },
+    {
+      "children": [
+        10
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        -0.1297278106212616,
+        0,
+        0.12171230465173721,
+        1
+      ],
+      "name": "All_GP_Objects:nurbsToPoly2"
+    },
+    {
+      "mesh": 2,
+      "name": "All_GP_Objects:nurbsToPoly2_All_GP_Objects:Bird_Nest_Eggs_0"
+    },
+    {
+      "children": [
+        12
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0.12940239906311035,
+        1
+      ],
+      "name": "All_GP_Objects:nurbsToPoly3"
+    },
+    {
+      "mesh": 3,
+      "name": "All_GP_Objects:nurbsToPoly3_All_GP_Objects:Bird_Nest_Eggs_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+
